@@ -31,7 +31,7 @@ public class FileStreamCopy {
 	}
 
 	/**
-	 * Tak a source data input stream and a sink data output stream copy input to
+	 * Take a source data input stream and a sink data output stream copy input to
 	 * output
 	 * 
 	 * @param src
